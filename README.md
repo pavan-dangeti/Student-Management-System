@@ -72,7 +72,7 @@ npm install
 npm run dev
 ```
 
-Then visit **http://localhost:5173** and sign in with one of the demo accounts below (any password of 4+ characters works).
+Then visit **https://student-management-system-cyan-one.vercel.app/** and sign in with one of the demo accounts below (any password of 4+ characters works).
 
 ---
 
